@@ -1,1 +1,2 @@
 streamparse # always required for streamparse projects
+pika==0.9.13
